@@ -1,6 +1,6 @@
 /*
     project: county library management system.
-    Author:  Titus Njiru
+    Author:  Eric Mburu
     Date:    Oct, 2021
     Compiler: GNU GCC
     Language: C99
